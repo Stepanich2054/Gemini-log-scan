@@ -1,0 +1,939 @@
+﻿10:14:05                        Запускается сервис Монитора Установки...
+10:14:05                        Версия сервиса: 0x105
+10:14:05                        Запускаем 'uTorrentPro_v3.6.0.47116.exe'...
+10:14:05                        Монитор установки запущен
+10:14:05    Создана папка       C:\Users\xmoon\AppData\Local\Temp\is-6C9KK.tmp
+10:14:05    Создан файл         C:\Users\xmoon\AppData\Local\Temp\is-6C9KK.tmp\uTorrentPro_v3.6.0.47116.tmp
+10:14:05    Создан процесс      C:\Users\xmoon\AppData\Local\Temp\is-6C9KK.tmp\uTorrentPro_v3.6.0.47116.tmp
+10:14:05    Создана папка       C:\Users\xmoon\AppData\Local\Temp\is-4HPUO.tmp
+10:14:05    Создана папка       C:\Users\xmoon\AppData\Local\Temp\is-4HPUO.tmp\_isetup
+10:14:05    Создан файл         C:\Users\xmoon\AppData\Local\Temp\is-4HPUO.tmp\_isetup\_setup64.tmp
+10:14:05    Создан файл         C:\Users\xmoon\AppData\Local\Temp\is-4HPUO.tmp\_isetup\_shfoldr.dll
+10:14:05    Создан файл         C:\Users\xmoon\AppData\Local\Temp\is-4HPUO.tmp\_isetup\_iscrypt.dll
+10:14:05    Создан файл         C:\Users\xmoon\AppData\Local\Temp\is-4HPUO.tmp\iswin7logo.dll
+10:14:05    Создан файл         C:\Users\xmoon\AppData\Local\Temp\is-4HPUO.tmp\rus.jpg
+10:14:05    Создан файл         C:\Users\xmoon\AppData\Local\Temp\is-4HPUO.tmp\ua.jpg
+10:14:05    Создан файл         C:\Users\xmoon\AppData\Local\Temp\is-4HPUO.tmp\eng.jpg
+10:14:05    Создан файл         C:\Users\xmoon\AppData\Local\Temp\is-4HPUO.tmp\icon.png
+10:14:05    Создан файл         C:\Users\xmoon\AppData\Local\Temp\is-4HPUO.tmp\botva2.dll
+10:14:05    Создан файл         C:\Users\xmoon\AppData\Local\Temp\is-4HPUO.tmp\Installer net.png
+10:14:05    Создан файл         C:\Users\xmoon\AppData\Local\Temp\is-4HPUO.tmp\Portable.png
+10:14:05    Создан файл         C:\Users\xmoon\AppData\Local\Temp\is-4HPUO.tmp\1.png
+10:14:05    Создан файл         C:\Users\xmoon\AppData\Local\Temp\is-4HPUO.tmp\Logo.png
+10:14:05    Создан файл         C:\Users\xmoon\AppData\Local\Temp\is-4HPUO.tmp\port neaktiv.png
+10:14:05    Создан файл         C:\Users\xmoon\AppData\Local\Temp\is-4HPUO.tmp\stac.png
+10:16:17    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\unins000.dat
+10:16:17    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\is-3433L.tmp
+10:16:17    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\unins000.exe
+10:16:17    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\is-PLQCF.tmp
+10:16:17    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\apps
+10:16:17    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\is-SM69R.tmp
+10:16:17    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\bt_datachannel.dll
+10:16:17    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\is-3NVIS.tmp
+10:16:17    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\flags.bmp
+10:16:17    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\is-MUQFA.tmp
+10:16:17    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\flags.conf
+10:16:17    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\is-6DN9P.tmp
+10:16:17    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\helper
+10:16:17    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\is-7BVBA.tmp
+10:16:17    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\libcrypto-3.dll
+10:16:18    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\is-NB759.tmp
+10:16:18    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\libssl-3.dll
+10:16:18    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\is-L9K2A.tmp
+10:16:18    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\maindoc.ico
+10:16:18    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\is-6FPRN.tmp
+10:16:18    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\share
+10:16:18    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\is-N5P40.tmp
+10:16:18    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\tray.ico
+10:16:18    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\is-FO8RM.tmp
+10:16:18    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\updates
+10:16:18    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\is-A20PC.tmp
+10:16:18    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\utorrent.exe
+10:16:18    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\is-F4EI1.tmp
+10:16:18    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\utorrent.lng
+10:16:18    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\is-ELA2K.tmp
+10:16:18    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\btinstall.txt
+10:16:18    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\is-AUCVS.tmp
+10:16:18    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\libvlc.dll
+10:16:18    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\is-P6258.tmp
+10:16:18    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\libvlccore.dll
+10:16:18    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\is-IAL0G.tmp
+10:16:18    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\plugins.dat
+10:16:18    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\3dnow\is-N189V.tmp
+10:16:18    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\3dnow\libmemcpy3dn_plugin.dll
+10:16:18    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access\is-RPPVI.tmp
+10:16:18    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access\libaccess_attachment_plugin.dll
+10:16:18    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access\is-H8GAO.tmp
+10:16:18    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access\libaccess_bd_plugin.dll
+10:16:18    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access\is-1STUS.tmp
+10:16:18    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access\libaccess_ftp_plugin.dll
+10:16:18    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access\is-DTVGP.tmp
+10:16:18    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access\libaccess_http_plugin.dll
+10:16:18    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access\is-4V2CH.tmp
+10:16:18    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access\libaccess_imem_plugin.dll
+10:16:18    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access\is-VQ02H.tmp
+10:16:18    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access\libaccess_mms_plugin.dll
+10:16:18    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access\is-QV98S.tmp
+10:16:18    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access\libaccess_rar_plugin.dll
+10:16:18    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access\is-SJ71O.tmp
+10:16:18    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access\libaccess_realrtsp_plugin.dll
+10:16:18    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access\is-2NISG.tmp
+10:16:18    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access\libaccess_smb_plugin.dll
+10:16:18    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access\is-GN8PD.tmp
+10:16:18    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access\libaccess_tcp_plugin.dll
+10:16:18    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access\is-963U8.tmp
+10:16:18    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access\libaccess_udp_plugin.dll
+10:16:18    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access\is-5UNRN.tmp
+10:16:18    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access\libaccess_vdr_plugin.dll
+10:16:18    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access\is-7F098.tmp
+10:16:18    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access\libcdda_plugin.dll
+10:16:18    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access\is-ACAG4.tmp
+10:16:18    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access\libdshow_plugin.dll
+10:16:18    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access\is-P662P.tmp
+10:16:18    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access\libdtv_plugin.dll
+10:16:18    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access\is-142HC.tmp
+10:16:18    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access\libdvdnav_plugin.dll
+10:16:18    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access\is-M1LGG.tmp
+10:16:18    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access\libdvdread_plugin.dll
+10:16:18    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access\is-VSJRD.tmp
+10:16:18    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access\libfilesystem_plugin.dll
+10:16:18    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access\is-PTGU7.tmp
+10:16:18    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access\libidummy_plugin.dll
+10:16:18    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access\is-TP59F.tmp
+10:16:18    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access\liblibbluray_plugin.dll
+10:16:18    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access\is-DS1K1.tmp
+10:16:18    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access\librtp_plugin.dll
+10:16:18    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access\is-R0841.tmp
+10:16:18    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access\libscreen_plugin.dll
+10:16:18    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access\is-K5CS9.tmp
+10:16:18    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access\libsdp_plugin.dll
+10:16:18    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access\is-O01UP.tmp
+10:16:18    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access\libstream_filter_rar_plugin.dll
+10:16:18    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access\is-3R5PI.tmp
+10:16:18    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access\libvcd_plugin.dll
+10:16:18    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access\is-7656N.tmp
+10:16:18    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access\libzip_plugin.dll
+10:16:18    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access_output\is-7T7CN.tmp
+10:16:18    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access_output\libaccess_output_dummy_plugin.dll
+10:16:18    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access_output\is-8TK01.tmp
+10:16:18    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access_output\libaccess_output_file_plugin.dll
+10:16:18    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access_output\is-BU3AR.tmp
+10:16:18    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access_output\libaccess_output_http_plugin.dll
+10:16:18    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access_output\is-FB9K7.tmp
+10:16:18    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access_output\libaccess_output_livehttp_plugin.dll
+10:16:18    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access_output\is-6UH3A.tmp
+10:16:18    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access_output\libaccess_output_shout_plugin.dll
+10:16:18    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access_output\is-9T6G0.tmp
+10:16:18    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\access_output\libaccess_output_udp_plugin.dll
+10:16:18    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\audio_filter\is-UO9LM.tmp
+10:16:18    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\audio_filter\liba52tofloat32_plugin.dll
+10:16:18    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\audio_filter\is-7MQHA.tmp
+10:16:18    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\audio_filter\liba52tospdif_plugin.dll
+10:16:18    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\audio_filter\is-C9RNP.tmp
+10:16:18    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\audio_filter\libaudiobargraph_a_plugin.dll
+10:16:18    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\audio_filter\is-7HA5D.tmp
+10:16:18    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\audio_filter\libaudio_format_plugin.dll
+10:16:18    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\audio_filter\is-EL4BO.tmp
+10:16:18    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\audio_filter\libchorus_flanger_plugin.dll
+10:16:18    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\audio_filter\is-5B9MO.tmp
+10:16:18    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\audio_filter\libcompressor_plugin.dll
+10:16:18    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\audio_filter\is-NSO5T.tmp
+10:16:18    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\audio_filter\libconverter_fixed_plugin.dll
+10:16:18    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\audio_filter\is-A1BB1.tmp
+10:16:18    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\audio_filter\libdtstofloat32_plugin.dll
+10:16:18    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\audio_filter\is-7S92S.tmp
+10:16:18    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\audio_filter\libdtstospdif_plugin.dll
+10:16:18    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\audio_filter\is-CSRH8.tmp
+10:16:18    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\audio_filter\libequalizer_plugin.dll
+10:16:18    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\audio_filter\is-U0KDE.tmp
+10:16:18    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\audio_filter\libheadphone_channel_mixer_plugin.dll
+10:16:18    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\audio_filter\is-0K7VJ.tmp
+10:16:18    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\audio_filter\libkaraoke_plugin.dll
+10:16:18    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\audio_filter\is-V75KN.tmp
+10:16:18    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\audio_filter\libmono_plugin.dll
+10:16:18    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\audio_filter\is-9SD1J.tmp
+10:16:18    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\audio_filter\libmpgatofixed32_plugin.dll
+10:16:18    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\audio_filter\is-22PI3.tmp
+10:16:18    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\audio_filter\libnormvol_plugin.dll
+10:16:18    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\audio_filter\is-585LS.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\audio_filter\libparam_eq_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\audio_filter\is-QNDV4.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\audio_filter\libsamplerate_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\audio_filter\is-87PSG.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\audio_filter\libscaletempo_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\audio_filter\is-S59RK.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\audio_filter\libsimple_channel_mixer_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\audio_filter\is-M77KK.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\audio_filter\libspatializer_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\audio_filter\is-7UA3O.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\audio_filter\libspeex_resampler_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\audio_filter\is-HF2AN.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\audio_filter\libtrivial_channel_mixer_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\audio_filter\is-GOULQ.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\audio_filter\libugly_resampler_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\audio_mixer\is-B94MH.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\audio_mixer\libfixed32_mixer_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\audio_mixer\is-R548D.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\audio_mixer\libfloat32_mixer_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\audio_output\is-MUH91.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\audio_output\libadummy_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\audio_output\is-AG6GD.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\audio_output\libamem_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\audio_output\is-JHTAE.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\audio_output\libaout_directx_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\audio_output\is-R6MMR.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\audio_output\libaout_file_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\audio_output\is-QU286.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\audio_output\libwaveout_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\codec\is-CR2V4.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\codec\liba52_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\codec\is-HTHJ1.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\codec\libaes3_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\codec\is-59PSP.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\codec\libaraw_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\codec\is-HL7CT.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\codec\libavcodec_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\codec\is-VS6PN.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\codec\libddummy_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\codec\is-L8N72.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\codec\libdmo_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\codec\is-SCIC0.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\codec\libedummy_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\codec\is-S4FFV.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\codec\libfaad_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\codec\is-S6JRV.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\codec\libflac_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\codec\is-I6FHA.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\codec\libkate_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\codec\is-VGUQ7.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\codec\liblibass_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\codec\is-63BU3.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\codec\liblibmpeg2_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\codec\is-6KP5K.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\codec\libmpeg_audio_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\codec\is-BITGG.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\codec\libpng_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\codec\is-AQ617.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\codec\libquicktime_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\codec\is-OJMO1.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\codec\librawvideo_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\codec\is-J8GQD.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\codec\libschroedinger_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\codec\is-VIRND.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\codec\libspeex_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\codec\is-EB4UN.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\codec\libtheora_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\codec\is-QPOII.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\codec\libvorbis_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\codec\is-F3U22.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\codec\libx264_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\control\is-MGICO.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\control\libdummy_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\control\is-ELSKG.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\control\libgestures_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\control\is-29EME.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\control\libglobalhotkeys_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\control\is-OBB8C.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\control\libhotkeys_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\control\is-P5DBA.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\control\libnetsync_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\control\is-AC089.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\control\libntservice_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\control\is-SOH0C.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\control\liboldrc_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\is-K07T3.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\libaiff_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\is-S0I1R.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\libasf_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\is-8033R.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\libau_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\is-45O15.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\libavi_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\is-P56JT.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\libdemuxdump_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\is-KQLJ1.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\libdemux_cdg_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\is-O86KT.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\libdemux_stl_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\is-N52TG.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\libdirac_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\is-GQR4L.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\libes_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\is-O6ILN.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\libflacsys_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\is-VH8D8.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\libgme_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\is-N0TE5.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\libh264_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\is-I5OB1.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\libimage_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\is-4EVKJ.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\liblive555_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\is-2JG2J.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\libmjpeg_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\is-L05VT.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\libmkv_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\is-ADE6P.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\libmod_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\is-7H4ED.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\libmp4_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\is-PNTEN.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\libmpc_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\is-01JJG.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\libmpgv_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\is-847RM.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\libnsc_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\is-L4GLU.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\libnsv_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\is-LUMFB.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\libnuv_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\is-CRRTL.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\libogg_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\is-989HG.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\libplaylist_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\is-AVHHT.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\libps_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\is-BML68.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\libpva_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\is-PIP75.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\librawaud_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\is-JDEJU.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\librawdv_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\is-897T3.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\librawvid_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\is-ULLP5.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\libreal_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\is-MHGCN.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\libsid_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\is-607IO.tmp
+10:16:19    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\libsmf_plugin.dll
+10:16:19    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\is-67U67.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\libsubtitle_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\is-I24HR.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\libts_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\is-5PMV3.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\libtta_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\is-THO1N.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\libty_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\is-6SUG2.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\libvc1_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\is-8TBU1.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\libvoc_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\is-ANP33.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\libwav_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\is-7SKOJ.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\demux\libxa_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\gui\is-NT8HC.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\gui\libqt4_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\gui\is-9V2FG.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\gui\libskins2_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\lua\is-BBVHC.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\lua\liblua_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\meta_engine\is-GJ1J3.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\meta_engine\libfolder_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\meta_engine\is-EN7KR.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\meta_engine\libtaglib_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\misc\is-2HORV.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\misc\libaudioscrobbler_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\misc\is-COLMO.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\misc\libexport_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\misc\is-L5FGV.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\misc\libgnutls_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\misc\is-BL8PA.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\misc\liblogger_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\misc\is-C07T7.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\misc\libmemcpy_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\misc\is-S5FJV.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\misc\libosd_parser_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\misc\is-OIQM0.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\misc\libstats_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\misc\is-PDGHF.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\misc\libxml_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\mmx\is-V3UGV.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\mmx\libi420_rgb_mmx_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\mmx\is-U7FTO.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\mmx\libi420_yuy2_mmx_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\mmx\is-LH89U.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\mmx\libi422_yuy2_mmx_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\mmx\is-6EH42.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\mmx\libmemcpymmx_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\mmxext\is-94FP0.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\mmxext\libmemcpymmxext_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\mux\is-5UDSS.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\mux\libmux_avi_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\mux\is-N04OG.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\mux\libmux_dummy_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\mux\is-TP0BS.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\mux\libmux_mp4_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\mux\is-TO0R1.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\mux\libmux_mpjpeg_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\mux\is-SMRE2.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\mux\libmux_ogg_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\mux\is-6J1HE.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\mux\libmux_ps_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\notify\is-CMDNK.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\notify\libmsn_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\packetizer\is-9KN0Q.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\packetizer\libpacketizer_copy_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\packetizer\is-D1B22.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\packetizer\libpacketizer_dirac_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\packetizer\is-85J8H.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\packetizer\libpacketizer_flac_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\packetizer\is-ASOA3.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\packetizer\libpacketizer_h264_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\packetizer\is-H35O5.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\packetizer\libpacketizer_mlp_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\packetizer\is-9ELTL.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\packetizer\libpacketizer_mpeg4audio_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\packetizer\is-28FLG.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\packetizer\libpacketizer_mpeg4video_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\packetizer\is-2F4Q0.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\packetizer\libpacketizer_mpegvideo_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\services_discovery\is-E1SIN.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\services_discovery\libmediadirs_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\services_discovery\is-H11PJ.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\services_discovery\libpodcast_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\services_discovery\is-QNBK4.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\services_discovery\libsap_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\services_discovery\is-TBJI4.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\services_discovery\libupnp_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\services_discovery\is-99L6B.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\services_discovery\libwindrive_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\sse2\is-R272J.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\sse2\libi420_rgb_sse2_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\sse2\is-N7P45.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\sse2\libi420_yuy2_sse2_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\sse2\is-5LMH6.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\sse2\libi422_yuy2_sse2_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\stream_filter\is-I31CM.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\stream_filter\libstream_filter_httplive_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\stream_filter\is-REMPE.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\stream_filter\libstream_filter_record_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\stream_out\is-P159A.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\stream_out\libstream_out_autodel_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\stream_out\is-EE79V.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\stream_out\libstream_out_bridge_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\stream_out\is-VSP3J.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\stream_out\libstream_out_delay_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\stream_out\is-P60IR.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\stream_out\libstream_out_description_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\stream_out\is-JDMBB.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\stream_out\libstream_out_display_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\stream_out\is-27T37.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\stream_out\libstream_out_dummy_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\stream_out\is-HJ8CN.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\stream_out\libstream_out_duplicate_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\stream_out\is-OFONI.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\stream_out\libstream_out_es_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\stream_out\is-4K9M1.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\stream_out\libstream_out_gather_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\stream_out\is-T92NK.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\stream_out\libstream_out_langfromtelx_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\stream_out\is-5OTDS.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\stream_out\libstream_out_mosaic_bridge_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\stream_out\is-25U4C.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\stream_out\libstream_out_raop_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\stream_out\is-0BHP4.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\stream_out\libstream_out_record_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\stream_out\is-0ACM1.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\stream_out\libstream_out_rtp_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\stream_out\is-FFMGQ.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\stream_out\libstream_out_select_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\stream_out\is-PK0A1.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\stream_out\libstream_out_setid_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\stream_out\is-3LK8B.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\stream_out\libstream_out_smem_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\stream_out\is-I2F14.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\stream_out\libstream_out_standard_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\stream_out\is-J3G38.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\stream_out\libstream_out_transcode_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\text_renderer\is-QR5D8.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\text_renderer\libfreetype_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\text_renderer\is-HL7RE.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\text_renderer\libtdummy_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_chroma\is-CEJFL.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_chroma\libgrey_yuv_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_chroma\is-ULIMV.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_chroma\libi420_rgb_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_chroma\is-2BG6Q.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_chroma\libi420_yuy2_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_chroma\is-0BIE6.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_chroma\libi422_i420_plugin.dll
+10:16:20    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_chroma\is-R8FCD.tmp
+10:16:20    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_chroma\libi422_yuy2_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_chroma\is-P911M.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_chroma\librv32_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_chroma\is-8263E.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_chroma\libyuy2_i420_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_chroma\is-5F70B.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_chroma\libyuy2_i422_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\is-POPM3.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\libadjust_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\is-D05T6.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\libalphamask_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\is-USL3S.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\libantiflicker_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\is-QC3LK.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\libatmo_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\is-4N0VG.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\libaudiobargraph_v_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\is-MR276.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\libball_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\is-IGPST.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\libblendbench_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\is-MSFLP.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\libblend_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\is-U61FB.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\libbluescreen_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\is-G6R1F.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\libcanvas_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\is-4Q5N9.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\libchain_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\is-AAPCJ.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\libclone_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\is-8TR0D.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\libcolorthres_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\is-DE7HO.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\libcroppadd_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\is-KC4FN.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\libdeinterlace_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\is-2CK9Q.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\liberase_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\is-8I71E.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\libextract_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\is-KQV1Q.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\libgaussianblur_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\is-TP2N0.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\libgradfun_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\is-N6N14.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\libgradient_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\is-S6EL4.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\libgrain_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\is-PO6VC.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\libinvert_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\is-GUJHR.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\liblogo_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\is-S9PAC.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\libmagnify_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\is-GU0IA.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\libmarq_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\is-F60S7.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\libmirror_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\is-S6MP0.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\libmosaic_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\is-TOI18.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\libmotionblur_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\is-HQ73M.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\libmotiondetect_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\is-DDOE2.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\libosdmenu_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\is-MDUP8.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\libpanoramix_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\is-P6L5G.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\libposterize_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\is-2KU80.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\libpostproc_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\is-E7HEM.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\libpsychedelic_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\is-PUMJB.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\libpuzzle_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\is-A0HQT.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\libremoteosd_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\is-R89I1.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\libripple_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\is-B0LRQ.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\librotate_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\is-9H7S0.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\librss_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\is-8CG97.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\libscale_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\is-0JA8G.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\libscene_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\is-GJ3N7.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\libsepia_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\is-110S0.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\libsharpen_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\is-2KFS5.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\libsubsdelay_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\is-1BL66.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\libswscale_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\is-3TR6K.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\libtransform_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\is-R6QG2.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\libwall_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\is-0953F.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\libwave_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\is-3C8PQ.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_filter\libyuvp_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_output\is-RECJQ.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_output\libcaca_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_output\is-U7U8U.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_output\libdirect2d_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_output\is-6DNIU.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_output\libdirect3d_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_output\is-NH365.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_output\libdirectx_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_output\is-OB6CG.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_output\libdrawable_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_output\is-8ACBE.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_output\libglwin32_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_output\is-ST02A.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_output\libvdummy_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_output\is-HFO1V.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_output\libvmem_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_output\is-JF32F.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_output\libwingdi_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_output\is-TU1G7.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\video_output\libyuv_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\visualization\is-RN6DA.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\visualization\libgoom_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\visualization\is-8T6NU.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\visualization\libprojectm_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\visualization\is-P5NBE.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\player\plugins\visualization\libvisual_plugin.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\is-3AT43.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\avxdisk.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\is-G8VJM.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\bdcore.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\is-HGG6T.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\BDUpdateServiceCom.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\is-NP016.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\BitTorrentAntivirus.exe
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\is-IK77Q.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\btinstall.txt
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\is-HRBP7.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\plugins.htm
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\is-VID1I.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\scan.dll
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-BVG1E.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\7zip.xmd
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-80MG3.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\access.xmd
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-4SK5L.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\ace.xmd
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-MA3EL.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\adsntfs.xmd
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-URUDV.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\aitok.cvd
+10:16:21    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-5NM5N.tmp
+10:16:21    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\alz.xmd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-KI94N.tmp
+10:16:22    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\ar.xmd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-5MT8V.tmp
+10:16:22    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\arc.xmd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-GTKCG.tmp
+10:16:22    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\arj.xmd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-P3C5D.tmp
+10:16:22    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\aspy_emu.cvd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-I4065.tmp
+10:16:22    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\auto.cvd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-56TV7.tmp
+10:16:22    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\auto.xmd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-LHR6P.tmp
+10:16:22    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\autoit.xmd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-I7UVT.tmp
+10:16:22    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\avxdisk.xmd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-HFHTO.tmp
+10:16:22    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\bach.xmd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-0QOK6.tmp
+10:16:22    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\boot.xmd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-AMAAK.tmp
+10:16:22    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\bzip2.xmd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-7VRQ0.tmp
+10:16:22    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\cab.xmd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-2LO37.tmp
+10:16:22    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\cevakrnl.cvd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-M65UJ.tmp
+10:16:22    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\cevakrnl.ivd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-VSL9M.tmp
+10:16:22    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\cevakrnl.xmd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-9CSCE.tmp
+10:16:22    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\ceva_dll.cvd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-FGBIB.tmp
+10:16:22    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\ceva_emu.cvd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-6TQ97.tmp
+10:16:22    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\ceva_vfs.cvd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-8EPPQ.tmp
+10:16:22    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\ceva_vfs.ivd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-6ED3U.tmp
+10:16:22    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\chm.xmd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-D12AS.tmp
+10:16:22    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\cookie.cvd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-E1RIP.tmp
+10:16:22    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\cookie.xmd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-S4DKL.tmp
+10:16:22    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\cpio.xmd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-1CJ19.tmp
+10:16:22    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\cran.cvd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-O9DGH.tmp
+10:16:22    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\cran.ivd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-DLNE2.tmp
+10:16:22    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\dalvik.cvd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-HPCO2.tmp
+10:16:22    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\dalvik.ivd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-28HP6.tmp
+10:16:22    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\dalvik.xmd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-TRNB2.tmp
+10:16:22    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\dbx.xmd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-IKP1Q.tmp
+10:16:22    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\disp.xmd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-7L75M.tmp
+10:16:22    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\docfile.xmd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-E1HKD.tmp
+10:16:22    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\dummyarch.xmd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-JL168.tmp
+10:16:22    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\dummyscan.xmd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-JJV8N.tmp
+10:16:22    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\epoc.xmd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-KJF3B.tmp
+10:16:22    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\e_spyw.cvd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-AV5FN.tmp
+10:16:22    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\e_spyw.ivd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-KG1HR.tmp
+10:16:22    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\gvmscripts.cvd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-P0IHK.tmp
+10:16:22    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\gzip.xmd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-5T6QP.tmp
+10:16:22    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\ha.xmd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-3GGRS.tmp
+10:16:22    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\hlp.xmd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-L121I.tmp
+10:16:22    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\hpe.cvd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-3BQV7.tmp
+10:16:22    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\hqx.xmd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-L3EPN.tmp
+10:16:22    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\html.xmd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-1GDTJ.tmp
+10:16:22    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\imp.xmd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-HATD5.tmp
+10:16:22    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\inno.xmd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-DJM88.tmp
+10:16:22    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\instyler.xmd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-9AJHU.tmp
+10:16:22    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\iso.xmd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-2UJDL.tmp
+10:16:22    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\java.cvd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-QSTGD.tmp
+10:16:22    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\java.xmd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-GODNG.tmp
+10:16:22    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\jpeg.xmd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-VMRP5.tmp
+10:16:22    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\lha.xmd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-HTQOP.tmp
+10:16:22    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\lnk.xmd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-M9PB2.tmp
+10:16:22    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\mbox.xmd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-MFCBM.tmp
+10:16:22    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\mbx.xmd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-U9M95.tmp
+10:16:22    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\mdx.xmd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-H75VN.tmp
+10:16:22    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\mdx_97.cvd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-07J0R.tmp
+10:16:22    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\mdx_97.ivd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-G2KNJ.tmp
+10:16:22    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\mdx_w95.cvd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-T07VL.tmp
+10:16:22    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\mdx_x95.cvd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-N25N8.tmp
+10:16:22    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\mdx_xf.cvd
+10:16:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-P8LPG.tmp
+10:16:23    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\mime.xmd
+10:16:23    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-FDN1U.tmp
+10:16:23    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\mobmalware.cvd
+10:16:23    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-O2PUE.tmp
+10:16:23    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\mobmalware.xmd
+10:16:23    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-NHV84.tmp
+10:16:23    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\mso.xmd
+10:16:23    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-VTK0Q.tmp
+10:16:23    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\na.cvd
+10:16:23    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-7775G.tmp
+10:16:23    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\nelf.cvd
+10:16:23    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-7L7B7.tmp
+10:16:23    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\nelf.xmd
+10:16:23    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-87IF2.tmp
+10:16:23    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\nsis.xmd
+10:16:23    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-8G56H.tmp
+10:16:23    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\objd.xmd
+10:16:23    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-07IH1.tmp
+10:16:23    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\orice.rvd
+10:16:23    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-VOBFP.tmp
+10:16:23    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\pdf.xmd
+10:16:23    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-E8VSR.tmp
+10:16:23    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\proc.xmd
+10:16:23    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-A73UB.tmp
+10:16:23    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\pst.xmd
+10:16:23    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-OSM77.tmp
+10:16:23    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\rar.xmd
+10:16:23    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-4CFPR.tmp
+10:16:23    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\regarch.cvd
+10:16:23    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-GTEM6.tmp
+10:16:23    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\regarch.xmd
+10:16:23    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-13C03.tmp
+10:16:23    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\regscan.cvd
+10:16:23    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-CQKUT.tmp
+10:16:23    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\regscan.xmd
+10:16:23    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-54PR6.tmp
+10:16:23    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\rpm.xmd
+10:16:23    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-HEIJR.tmp
+10:16:23    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\rtf.xmd
+10:16:23    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-C5O7F.tmp
+10:16:23    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\rup.cvd
+10:16:23    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-9PD2P.tmp
+10:16:23    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\rup.xmd
+10:16:23    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-RRP9H.tmp
+10:16:23    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\sdx.cvd
+10:16:23    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-IEI2J.tmp
+10:16:23    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\sdx.ivd
+10:16:23    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-NE0K7.tmp
+10:16:23    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\sdx.xmd
+10:16:23    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-VFEHJ.tmp
+10:16:23    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\sfx.xmd
+10:16:23    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-HOLUL.tmp
+10:16:23    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\swf.xmd
+10:16:23    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-VJC36.tmp
+10:16:23    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\tar.xmd
+10:16:23    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-92OA4.tmp
+10:16:23    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\td0.xmd
+10:16:23    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-VPGU4.tmp
+10:16:23    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\thebat.xmd
+10:16:23    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-MLTO9.tmp
+10:16:23    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\tnef.xmd
+10:16:23    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-FMUAB.tmp
+10:16:23    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\uif.xmd
+10:16:23    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-HIBGU.tmp
+10:16:23    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\unpack.cvd
+10:16:23    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-CV9F3.tmp
+10:16:23    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\unpack.ivd
+10:16:23    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-TOIO6.tmp
+10:16:23    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\unpack.xmd
+10:16:23    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-2CB0R.tmp
+10:16:23    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\update.txt
+10:16:23    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-5STKC.tmp
+10:16:23    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\uudecode.xmd
+10:16:23    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-R50V9.tmp
+10:16:23    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\ve.cvd
+10:16:23    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-R8P43.tmp
+10:16:23    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\ve.ivd
+10:16:23    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-2PV3D.tmp
+10:16:23    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\ve.xmd
+10:16:23    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-JN746.tmp
+10:16:23    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\vedata.cvd
+10:16:23    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-IQ9TD.tmp
+10:16:23    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\viza.xmd
+10:16:23    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-6R55P.tmp
+10:16:23    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\wise.xmd
+10:16:23    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-18O2P.tmp
+10:16:23    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\xar.xmd
+10:16:23    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-6MJK5.tmp
+10:16:23    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\xcookies.xmd
+10:16:23    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-9LMC8.tmp
+10:16:23    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\xishield.xmd
+10:16:23    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-DR9AV.tmp
+10:16:23    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\xlmrd.cvd
+10:16:23    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-SOA3P.tmp
+10:16:23    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\xlmrd.ivd
+10:16:23    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-ULVS1.tmp
+10:16:23    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\z.xmd
+10:16:23    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-FDE2I.tmp
+10:16:23    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\zip.xmd
+10:16:23    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\is-9745E.tmp
+10:16:23    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\VirusGuard\Plugins\zoo.xmd
+10:16:23    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\is-U85V2.tmp
+10:16:23    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\uTorrent.ini
+10:16:23    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\is-U3NNH.tmp
+10:16:23    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\version.dll
+10:16:23    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\is-JT4B1.tmp
+10:16:23    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\MicrosoftEdgeWebView2Setup.exe
+10:16:23    Создан файл         C:\Users\Public\Desktop\uTorrent.lnk
+10:16:23    Создан файл         C:\ProgramData\Microsoft\Windows\Start Menu\Programs\uTorrent\uTorrent.lnk
+10:16:23    Создан файл         C:\ProgramData\Microsoft\Windows\Start Menu\Programs\uTorrent\Удалить uTorrent.lnk
+10:16:23    Создан ключ         HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\uTorrent_is1
+10:16:23    Уст. значения       HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\uTorrent_is1\[@]Inno Setup: Setup Version
+10:16:23    Уст. значения       HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\uTorrent_is1\[@]Inno Setup: App Path
+10:16:23    Уст. значения       HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\uTorrent_is1\[@]InstallLocation
+10:16:23    Уст. значения       HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\uTorrent_is1\[@]Inno Setup: Icon Group
+10:16:23    Уст. значения       HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\uTorrent_is1\[@]Inno Setup: User
+10:16:23    Уст. значения       HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\uTorrent_is1\[@]Inno Setup: Language
+10:16:23    Уст. значения       HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\uTorrent_is1\[@]DisplayName
+10:16:23    Уст. значения       HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\uTorrent_is1\[@]DisplayIcon
+10:16:23    Уст. значения       HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\uTorrent_is1\[@]UninstallString
+10:16:23    Уст. значения       HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\uTorrent_is1\[@]UninstallDataFile
+10:16:23    Уст. значения       HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\uTorrent_is1\[@]QuietUninstallString
+10:16:23    Уст. значения       HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\uTorrent_is1\[@]DisplayVersion
+10:16:23    Уст. значения       HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\uTorrent_is1\[@]Publisher
+10:16:23    Уст. значения       HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\uTorrent_is1\[@]URLInfoAbout
+10:16:23    Уст. значения       HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\uTorrent_is1\[@]NoModify
+10:16:23    Уст. значения       HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\uTorrent_is1\[@]NoRepair
+10:16:23    Уст. значения       HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\uTorrent_is1\[@]InstallDate
+10:16:23    Уст. значения       HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\uTorrent_is1\[@]MajorVersion
+10:16:23    Уст. значения       HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\uTorrent_is1\[@]MinorVersion
+10:16:23    Уст. значения       HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\uTorrent_is1\[@]EstimatedSize
+10:16:23    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\uninstall.dat
+10:16:23    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\uninstall.exe
+10:16:43    Создан процесс      C:\Users\xmoon\AppData\Roaming\uTorrent\utorrent.exe
+10:16:44    Процесс завершен    C:\Users\xmoon\AppData\Local\Temp\is-6C9KK.tmp\uTorrentPro_v3.6.0.47116.tmp
+10:16:44    Процесс завершен    C:\Users\xmoon\Downloads\uTorrentPro_v3.6.0.47116.exe
+10:16:44    Создан файл         C:\Users\xmoon\AppData\Local\Temp\utt11A8.tmp
+10:16:44    Создан файл         C:\Users\xmoon\AppData\Local\Temp\utt11A8.tmp
+10:16:44    Создан файл         C:\Users\xmoon\AppData\Roaming\Microsoft\Crypto\RSA\S-1-5-21-3206971196-2074547272-976281811-1001\1f91d2d17ea675d4c2c3192e241743f9_18464398-37cb-4179-839a-a9078ac07b4e
+10:16:44    Создан ключ         HKEY_CURRENT_USER\Software\Classes\FalconBetaAccount
+10:16:44    Уст. значения       HKEY_CURRENT_USER\Software\Classes\FalconBetaAccount\[@]remote_access_client_id
+10:16:44    Создан ключ         HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Uninstall\uTorrent
+10:16:44    Уст. значения       HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Uninstall\uTorrent\[@]DisplayIcon
+10:16:44    Уст. значения       HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Uninstall\uTorrent\[@]DisplayName
+10:16:44    Уст. значения       HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Uninstall\uTorrent\[@]DisplayVersion
+10:16:44    Уст. значения       HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Uninstall\uTorrent\[@]UninstallString
+10:16:44    Уст. значения       HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Uninstall\uTorrent\[@]InstallLocation
+10:16:44    Уст. значения       HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Uninstall\uTorrent\[@]VersionMajor
+10:16:44    Уст. значения       HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Uninstall\uTorrent\[@]MajorVersion
+10:16:44    Уст. значения       HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Uninstall\uTorrent\[@]VersionMinor
+10:16:44    Уст. значения       HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Uninstall\uTorrent\[@]MinorVersion
+10:16:44    Уст. значения       HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Uninstall\uTorrent\[@]NoModify
+10:16:44    Уст. значения       HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Uninstall\uTorrent\[@]NoRepair
+10:16:44    Уст. значения       HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Uninstall\uTorrent\[@]URLInfoAbout
+10:16:44    Уст. значения       HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Uninstall\uTorrent\[@]Publisher
+10:16:44    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\app.1718864205.tmp
+10:16:44    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\app.1718864205.tmp
+10:16:44    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\settings.dat.new
+10:16:44    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\settings.dat.old
+10:16:44    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\settings.dat
+10:16:44    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\settings.dat.new
+10:16:44    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\settings.dat.old
+10:16:44    Переименование      C:\Users\xmoon\AppData\Roaming\uTorrent\settings.dat
+10:16:44    Создан файл         C:\Users\xmoon\AppData\Local\Temp\utt12B2.tmp
+10:16:44    Создан файл         C:\Users\xmoon\AppData\Local\Temp\utt12B2.tmp
+10:16:45    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\app.1718864205.tmp
+10:16:45    Уст. значения       HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_BROWSER_EMULATION\[@]utorrentie.exe
+10:16:45    Создан ключ         HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_SCRIPTURL_MITIGATION
+10:16:45    Уст. значения       HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_SCRIPTURL_MITIGATION\[@]utorrentie.exe
+10:16:45    Создан ключ         HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_CROSS_DOMAIN_REDIRECT_MITIGATION
+10:16:45    Уст. значения       HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_CROSS_DOMAIN_REDIRECT_MITIGATION\[@]utorrentie.exe
+10:16:45    Создана папка       C:\Users\xmoon\AppData\Roaming\uTorrent\dlimagecache
+10:16:45    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\app.1718864205.tmp
+10:16:45    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\app.1718864205.tmp
+10:16:45    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\app.1718864206.tmp
+10:16:45    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\app.1718864206.tmp
+10:16:45    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\app.1718864206.tmp
+10:16:45    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\app.1718864206.tmp
+10:16:45    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\app.1718864206.tmp
+10:16:45    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\app.1718864206.tmp
+10:16:45    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\updates.dat
+10:16:45    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\dlimagecache\C693AD3D8D75DF65D2AD1B07EFB2AED51E823E99
+10:16:54    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\dlimagecache\985599F5B7544E63BC92980B47F926815070F6A9
+10:16:55    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\dlimagecache\DF496916AD53A71983F670C0AB9872320BEE8E6A
+10:17:06    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\dlimagecache\C11EC8D3724DC29D224AF1AC8437FAE3D11A5558
+10:17:06    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\dlimagecache\A9C891426E834C969B0C1A2E1EE3722F6D7AD41A
+10:17:06    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\dlimagecache\44B83DF6C3E37814DA3E607F82F7019BE419FD58
+10:17:21    Создан процесс      C:\Users\xmoon\AppData\Roaming\uTorrent\utorrent.exe
+10:17:22    Создан файл         C:\Users\xmoon\AppData\Local\Temp\uttA50E.tmp
+10:17:22    Создан файл         C:\Users\xmoon\AppData\Local\Temp\uttA50E.tmp
+10:17:22    Создан файл         C:\Users\xmoon\AppData\Roaming\Microsoft\Crypto\RSA\S-1-5-21-3206971196-2074547272-976281811-1001\0b8c30b81e2582129f21c093fdf09434_18464398-37cb-4179-839a-a9078ac07b4e
+10:17:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\app.1718864243.tmp
+10:17:22    Создан файл         C:\Users\xmoon\AppData\Roaming\uTorrent\app.1718864243.tmp
+10:17:22    Процесс завершен    C:\Users\xmoon\AppData\Roaming\uTorrent\utorrent.exe
+10:17:31                        Слежение остановлено пользователем
+10:17:31                        Инсталляция завершена
+10:17:31                        Сервис остановлен
+10:17:31                        Анализ инсталляции, пожалуйста, подождите...
+10:17:31                        Обнаружено установленных программ: 2
